@@ -1,0 +1,15 @@
+current directory: /home/ezra/workspace/sample_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/usr/local/bin/ruby -r ./siteconf20170511-572-1prhh5.rb extconf.rb
+creating Makefile
+
+current directory: /home/ezra/workspace/sample_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/ezra/workspace/sample_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/ezra/workspace/sample_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20170511-572-131cx29

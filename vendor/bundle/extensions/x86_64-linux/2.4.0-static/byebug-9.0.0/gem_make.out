@@ -1,0 +1,19 @@
+current directory: /home/ezra/workspace/sample_app/vendor/bundle/gems/byebug-9.0.0/ext/byebug
+/usr/local/bin/ruby -r ./siteconf20170511-13514-snp7jd.rb extconf.rb
+creating Makefile
+
+current directory: /home/ezra/workspace/sample_app/vendor/bundle/gems/byebug-9.0.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/ezra/workspace/sample_app/vendor/bundle/gems/byebug-9.0.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/ezra/workspace/sample_app/vendor/bundle/gems/byebug-9.0.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20170511-13514-12ivpyo/byebug
