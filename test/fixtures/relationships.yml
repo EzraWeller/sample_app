@@ -1,0 +1,7 @@
+one:
+  follower: ezra
+  followed: archer
+
+two:
+  follower: archer
+  followed: ezra
